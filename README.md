@@ -57,7 +57,7 @@ Cityscapes数据集是专注于城市街道交通场景语义理解的逐像素�
 
 - **Benchmark Suite:** [https://www.cityscapes-dataset.com/benchmarks](https://www.cityscapes-dataset.com/benchmarks/)
 
-- **CityscapesCcripts:** [https://github.com/mcordts/cityscapesScripts](https://github.com/mcordts/cityscapesScripts "README and scripts for the Cityscapes Dataset")
+- **CityscapesScripts:** [https://github.com/mcordts/cityscapesScripts](https://github.com/mcordts/cityscapesScripts "README and scripts for the Cityscapes Dataset")
 
 
 ### Apollo
